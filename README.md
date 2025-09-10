@@ -27,56 +27,11 @@ It features a clean design with both light and dark modes for easy use in any en
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have installed:
-- **Node.js** (if it’s a JS/React app)  
-or  
-- **Python 3.x** (if it’s a Flask/Django app)
-
----
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/20mup/pantry-recipes.git
-cd pantry-recipes
-```
-
-Install dependencies:
-
-```bash
-# Node.js
-npm install
-
-# OR Python
-pip install -r requirements.txt
-```
-
----
-
-### Run the App
-
-```bash
-# Node.js
-npm start
-
-# OR Python
-python app.py
-```
-
----
-
 ## 📂 Project Structure
 ```
 pantry-recipes/
 ├── app/                # main app code
 ├── screenshots/        # UI screenshots
-├── requirements.txt    # dependencies (Python)
-├── package.json        # dependencies (Node.js)
 ├── README.md           # this file
 └── .gitignore
 ```
