@@ -1,0 +1,45 @@
+# --- OS / Editor files ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+env/
+.Python
+db.sqlite3
+
+# --- Node.js ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- Build / Dist ---
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# --- Environment & Secrets ---
+.env
+.env.local
+.env.*.local
+
+# --- Testing ---
+.coverage
+htmlcov/
+.pytest_cache/
+jest-coverage/
