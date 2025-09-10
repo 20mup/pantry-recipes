@@ -16,13 +16,13 @@ It features a clean design with both light and dark modes for easy use in any en
 ## 📸 Screenshots
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](screenshots/light-mode-pantry.png) | ![Dark Mode](screenshots/dark-mode-pantry.png) |
+| ![Light Mode](screenshots/light-mode-pantry.jpg) | ![Dark Mode](screenshots/dark-mode-pantry.jpg) |
 
 | Saved Pantry | Shopping List | Detailed Recipe |
 |--------------|---------------|-----------------|
-| ![Saved Pantry](screenshots/saved-pantry.png) | ![Shopping List](screenshots/shopping-list-pantry.png) | ![Detailed Recipe](screenshots/detailed-pantry.png) |
+| ![Saved Pantry](screenshots/saved-pantry.jpg) | ![Shopping List](screenshots/shopping-list-pantry.jpg) | ![Detailed Recipe](screenshots/detailed-pantry.jpg) |
 
-![Banner](screenshots/pantry_banner.png)
+![Banner](screenshots/pantry_banner.jpg)
 
 ---
 
